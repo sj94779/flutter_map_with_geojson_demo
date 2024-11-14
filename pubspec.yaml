@@ -41,6 +41,8 @@ dependencies:
   flutter_map: ^6.0.0
   flutter_map_geojson: ^1.0.8
 
+  path_drawing: ^1.0.1
+
 
 dev_dependencies:
   flutter_test:
@@ -65,8 +67,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - assets/my_geojson_file.geojson
+#  assets:
+#    - assets/my_geojson_file.geojson
 
   #   - images/a_dot_ham.jpeg
 
